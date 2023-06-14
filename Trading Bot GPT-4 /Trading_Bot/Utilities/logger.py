@@ -1,0 +1,1 @@
+# Contains a logger class for logging errors and other messages
